@@ -1,0 +1,25 @@
+body {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 12pt;
+}
+label {
+	display: block;
+	float: left;
+	clear: left;
+	width: 150px;
+	text-align: right;
+	
+}
+
+input {
+	display: inline-block;
+	float: left;
+	padding-right: 0px;
+	margin-left: 50px;
+}
+
+textarea {
+	display: inline-block;
+	float: left;
+	margin-left: 50px;
+}
